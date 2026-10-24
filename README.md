@@ -19,7 +19,7 @@ Docente: Ing. Carlos Calderón Sulca
 |---|---|---|---|
 | Calderón Sevillano, Cesar Eduardo | n00582070 | | |
 | Carranza Casique, Segundo Abel | n00567615 | | |
-| Galas Zavaleta, Emmanuel Alfredo | n00583759 | EGalaszav | |
+| Galas Zavaleta, Emmanuel Alfredo (delegado) | n00583759 | EGalaszav | |
 | García Leiva, Cristhian Julio | n00566002 | | |
 | Julca Mori, Giancarlo Renato | n00581930 | | |
 | Minaya Espinoza, Erick David | n00459115 | | |
