@@ -1,0 +1,7 @@
+*.class
+*.jar
+.idea/
+.vscode/
+nbproject/private/
+target/
+.DS_Store
