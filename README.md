@@ -15,9 +15,14 @@ Docente: Ing. Carlos Calderón Sulca
 
 ## Integrantes
 
-| Apellidos y nombres | Usuario GitHub | % participación |
-|---|---|---|
-| _Por completar_ | | |
+| Apellidos y nombres | Código | Usuario GitHub | % participación |
+|---|---|---|---|
+| Calderón Sevillano, Cesar Eduardo | n00582070 | | |
+| Carranza Casique, Segundo Abel | n00567615 | | |
+| Galas Zavaleta, Emmanuel Alfredo | n00583759 | EGalaszav | |
+| García Leiva, Cristhian Julio | n00566002 | | |
+| Julca Mori, Giancarlo Renato | n00581930 | | |
+| Minaya Espinoza, Erick David | n00459115 | | |
 
 ## Flujo de trabajo del equipo
 
