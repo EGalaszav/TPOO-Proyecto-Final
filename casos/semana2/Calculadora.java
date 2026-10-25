@@ -1,7 +1,7 @@
 public class Calculadora {
 
     public int sumar(int a, int b) {
-        return a + b;
+        return Math.addExact(a, b);
     }
 
     public static void main(String[] args) {
